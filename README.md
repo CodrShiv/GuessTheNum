@@ -1,9 +1,6 @@
-<center>
-<img src="./icons/android-chrome-256x256.png" style="border-radius: 50%; width: 80px;">
-<h1>GuessTheNum</h1>
-<hr>
-<p>A Web-Based Number-Guessing Game implemented using Vanilla JS</p>
-</center>
+![Logo for GuessTheNum Game](./icons/android-chrome-192x192.png)
+# GuessTheNum
+A Web-Based Number-Guessing Game implemented using Vanilla JS</p>
 
 ## Getting Started
 

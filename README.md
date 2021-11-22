@@ -4,7 +4,7 @@ A Web-Based Number-Guessing Game implemented using Vanilla JS</p>
 
 ## Getting Started
 
-You can either clone this Repository to your Local Environment or simply open online on [GitHub Pages](CodrShiv.GitHub.io/GuessTheNum)
+You can either clone this Repository to your Local Environment or simply open online on [GitHub Pages](https://CodrShiv.GitHub.io/GuessTheNum/index.html)
 
 
 ### 
